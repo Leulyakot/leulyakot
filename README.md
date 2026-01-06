@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1500048993959-d6cb4b0ee158?q=80&w=1920" width="100%" />
-</p>
-
 <h1 align="center">⚡ LEUL MUHIDIN ⚡</h1>
 <h3 align="center">Technical Executive • Solution Architect • Platform Engineering Leader</h3>
 
