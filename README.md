@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leul Muhidin but you can call me Leo
+# 👋 Hi, I'm Leul Muhidin
 
 **Technical Executive | Solution Architect | Platform Engineering Leader**
 
