@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1900" width="100%"/>
 </p>
 
 <h1 align="center">🧠 LEUL MUHIDIN</h1>
