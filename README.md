@@ -9,8 +9,7 @@
 </p>
 
 ### 🧬 Engineering Intelligence
-Designing next-generation digital ecosystems — intelligent integration networks, resilient distributed architectures, and self-evolving platforms.  
-Focused on **strategy • scalability • reliability • precision execution**.
+Designing next-generation digital ecosystems — intelligent integration networks, resilient distributed architectures, and self-evolving platforms. Focused on **strategy • scalability • reliability • precision execution**.
 
 ---
 
