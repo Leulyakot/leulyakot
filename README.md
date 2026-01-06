@@ -1,7 +1,4 @@
-<p align="center">
-</p>
-
-<h1 align="center">🧠 LEUL MUHIDIN</h1>
+<h1 align="center">LEUL MUHIDIN</h1>
 <h3 align="center">Technical Executive • Solution Architect • Platform Engineering Leader</h3>
 
 <p align="center">
@@ -9,7 +6,7 @@
 </p>
 
 ### 🧬 Engineering Intelligence
-Designing next-generation digital ecosystems — intelligent integration networks, resilient distributed architectures, and self-evolving platforms. Focused on **strategy • scalability • reliability • precision execution**.
+Designing next-generation digital ecosystems. intelligent integration networks, resilient distributed architectures, and self-evolving platforms. Focused on **strategy • scalability • reliability • precision execution**.
 
 ---
 
@@ -19,9 +16,6 @@ Designing next-generation digital ecosystems — intelligent integration network
 - Cloud • Security • Reliability • Performance  
 
 ---
-
-### 🌍 Operating Zones
-**Virginia • Minnesota • North Carolina • Addis Ababa**
 
 <p align="center">
 <code>systems</code> — <code>intelligence</code> — <code>architecture</code> — <code>resilience</code> — <code>future</code>
