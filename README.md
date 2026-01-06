@@ -1,5 +1,5 @@
 <h1 align="center">LEUL MUHIDIN</h1>
-<h3 align="center">Technical Executive • Solution Architect • Platform Engineering Leader</h3>
+<h3 align="center">Solution Architect • Lead Software Engineer</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff99,100:00ffff&height=4"/>
