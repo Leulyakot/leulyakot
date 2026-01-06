@@ -10,7 +10,7 @@
 </p>
 
 ### 🧬 Operating In The Future
-Engineering the systems that power tomorrow — large-scale platforms, self-healing architectures, intelligent integration networks, and resilient digital ecosystems.  
+Engineering the systems that power tomorrow. large-scale platforms, self-healing architectures, intelligent integration networks, and resilient digital ecosystems.  
 Focused on **strategy • scalability • reliability • precision execution**.
 
 ---
