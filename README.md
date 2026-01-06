@@ -1,30 +1,34 @@
-<h1 align="center">⚡ LEUL MUHIDIN ⚡</h1>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1900" width="100%"/>
+</p>
+
+<h1 align="center">🧠 LEUL MUHIDIN</h1>
 <h3 align="center">Technical Executive • Solution Architect • Platform Engineering Leader</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0affff,100:ff00ff&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff99,100:00ffff&height=4"/>
 </p>
 
-### 🧬 Operating In The Future
-Engineering the systems that power tomorrow. large-scale platforms, self-healing architectures, intelligent integration networks, and resilient digital ecosystems.  
+### 🧬 Engineering Intelligence
+Designing next-generation digital ecosystems — intelligent integration networks, resilient distributed architectures, and self-evolving platforms.  
 Focused on **strategy • scalability • reliability • precision execution**.
 
 ---
 
-### ⚔️ Core Specialties
+### ⚡ Core Focus
 - Enterprise Architecture & Platform Strategy  
-- Massive-Scale Integration & API Engineering  
-- Cloud • Security • Reliability • Performance Engineering  
+- Large-Scale Integration & API Engineering  
+- Cloud • Security • Reliability • Performance  
 
 ---
 
-### 🌍 Active Zones
+### 🌍 Operating Zones
 **Virginia • Minnesota • North Carolina • Addis Ababa**
 
 <p align="center">
-<code>platforms</code> — <code>architecture</code> — <code>intelligence</code> — <code>resilience</code> — <code>future systems</code>
+<code>systems</code> — <code>intelligence</code> — <code>architecture</code> — <code>resilience</code> — <code>future</code>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=100&section=footer"/>
 </p>
