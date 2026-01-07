@@ -39,7 +39,7 @@
 
 - CI/CD, automation, monitoring, observability  
 - Architecture modeling & threat design  
-- Performance analysis & resilience engineering  
+- Performance analysis & resilience engineering
 
 ---
 
@@ -48,6 +48,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leulyakot&theme=github-dark&hide_border=true" />
 </p>
-
-### 🕶️ Signature  
-**Silent Systems. Relentless Power.**
