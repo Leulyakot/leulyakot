@@ -2,12 +2,9 @@
    LEUL MUHIDIN — CYBER OPS
 ========================= -->
 
-# 🕶️ Leul Muhidin
+#  Leul Muhidin
 
-> Solutions Architect | Lead Software Engineer  
-> Engineering intelligence-grade, resilient digital ecosystems.
-
-VA • MN • NC • AA  
+-  Solutions Architect | Lead Software Engineer  
 
 ---
 
