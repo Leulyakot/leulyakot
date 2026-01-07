@@ -1,7 +1,7 @@
 
-<h1 align="center">Leul Muhidin</h1>
+# Leul Muhidin
 
--  Solutions Architect | Lead Software Engineer  
+> Solutions Architect | Lead Software Engineer  
 
 ---
 
