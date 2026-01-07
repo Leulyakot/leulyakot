@@ -4,7 +4,7 @@
 
 # 🕶️ Leul Muhidin
 
-> Executive Systems Architect & Platform Engineering Leader  
+> Solutions Architect | Lead Software Engineer  
 > Engineering intelligence-grade, resilient digital ecosystems.
 
 Virginia • Minnesota • North Carolina • Addis Ababa  
@@ -68,7 +68,7 @@ Virginia • Minnesota • North Carolina • Addis Ababa
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Leulyakot&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -76,18 +76,8 @@ Virginia • Minnesota • North Carolina • Addis Ababa
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leulyakot&theme=github-dark&hide_border=true" />
 </p>
-
----
-
-## 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=00ff66" />
-</p>
-
----
 
 ### 🕶️ Signature  
 **Silent Systems. Relentless Power.**
