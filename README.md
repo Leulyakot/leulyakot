@@ -7,7 +7,7 @@
 > Solutions Architect | Lead Software Engineer  
 > Engineering intelligence-grade, resilient digital ecosystems.
 
-Virginia • Minnesota • North Carolina • Addis Ababa  
+VA • MN • NC • AA  
 
 ---
 
