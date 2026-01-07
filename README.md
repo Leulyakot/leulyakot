@@ -1,26 +1,93 @@
-<h1 align="center">LEUL MUHIDIN</h1>
-<h3 align="center">Solution Architect • Lead Software Engineer</h3>
+<!-- =========================
+   LEUL MUHIDIN — CYBER OPS
+========================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff99,100:00ffff&height=4"/>
-</p>
+# 🕶️ Leul Muhidin
 
-### 🧬 Engineering Intelligence
-Designing next-generation digital ecosystems. intelligent integration networks, resilient distributed architectures, and self-evolving platforms. Focused on **strategy • scalability • reliability • precision execution**.
+> Executive Systems Architect & Platform Engineering Leader  
+> Engineering intelligence-grade, resilient digital ecosystems.
 
----
-
-### ⚡ Core Focus
-- Enterprise Architecture & Platform Strategy  
-- Large-Scale Integration & API Engineering  
-- Cloud • Security • Reliability • Performance  
+Virginia • Minnesota • North Carolina • Addis Ababa  
 
 ---
 
+## 💻 About Me
+
+- Solution Architect & Lead Developer designing **large-scale integration and platform systems**
+- Deep focus on **distributed systems, API ecosystems, and cloud architecture**
+- Passionate about **security, reliability, and critical-infrastructure engineering**
+- Building systems that operate **silently, relentlessly, and without failure**
+- ⚡ Fun fact: I work globally but think in architectures
+
+---
+
+## 🛡 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,py,linux,aws,azure,docker,git,github,postgresql,mysql" />
+</p>
+
+**Core Domains**
+- Enterprise Integration & Platform Engineering  
+- Distributed & Event-Driven Architectures  
+- Cloud Strategy & System Reliability  
+- Security • Performance • Scalability  
+
+> Additional: API Design, CI/CD, Data Engineering, Automation, Enterprise Integration Patterns
+
+---
+
+## 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,windows,linux" />
+</p>
+
+- CI/CD, automation, monitoring, observability  
+- Architecture modeling & threat design  
+- Performance analysis & resilience engineering  
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-<code>systems</code> — <code>intelligence</code> — <code>architecture</code> — <code>resilience</code> — <code>future</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=100&section=footer"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=00ff66" />
+</p>
+
+---
+
+### 🕶️ Signature  
+**Silent Systems. Relentless Power.**
