@@ -11,8 +11,6 @@
 - Deep focus on **distributed systems, API ecosystems, and cloud architecture**
 - Passionate about **security, reliability, and critical-infrastructure engineering**
 - Building systems that operate **silently, relentlessly, and without failure**
-- ⚡ Fun fact: I work globally but think in architectures
-
 ---
 
 ## 🛡 Tech Stack
